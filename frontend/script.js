@@ -18,7 +18,7 @@ try{
 
 let res =
 await fetch(
-"http://localhost:5000/bfhl",
+"https://chitkara-bfhl-backend.onrender.com",
 {
 
 method:"POST",
